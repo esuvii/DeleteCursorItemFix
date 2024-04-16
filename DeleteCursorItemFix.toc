@@ -1,0 +1,7 @@
+## Interface: 11502
+## Title: DeleteCursorItemFix
+## Notes: Allows /click DelItem as replacement for DeleteCursorItem()
+## Author: esuvii
+## Version: 1.0
+
+DeleteCursorItemFix.lua
