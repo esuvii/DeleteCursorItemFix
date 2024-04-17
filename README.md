@@ -1,4 +1,4 @@
-# DeleteCursorItemFix
+# DeleteCursorItemFix (WoW Classic)
 
 Due to API changes `DeleteCursorItem()` cannot be called from macros or WeakAuras anymore. This simple addon creates an invisible button that allows the command to be called once per hardware input.
 
